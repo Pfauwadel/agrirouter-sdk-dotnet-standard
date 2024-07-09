@@ -17,6 +17,6 @@ namespace Agrirouter.Test.Service
                 .CreateLogger();
         }
 
-        protected static Environment Environment => new QualityAssuranceEnvironment();
+        protected static Environment Environment => new Ar2QualityAssuranceEnvironment();
     }
 }

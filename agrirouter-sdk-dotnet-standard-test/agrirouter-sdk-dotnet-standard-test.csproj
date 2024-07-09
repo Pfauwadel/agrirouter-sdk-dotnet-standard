@@ -4,7 +4,7 @@
         <RootNamespace>Agrirouter.Test</RootNamespace>
         <OutputType>Library</OutputType>
         <LangVersion>default</LangVersion>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <Title>Agrirouter SDK .NET Standard | TEST</Title>
         <Authors>Sascha Dömer</Authors>
         <Description>TEST module for the .NET SDK.</Description>
